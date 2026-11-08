@@ -1,23 +1,13 @@
 <h1 data-importer="text" align="left">Hey 👋 What's up?</h1>
-
 ###
-
-<p data-importer="text" align="left">Im from Germany 🇩🇪 love stats, data and im learning Python. </p>
-
+<p data-importer="text" align="left">Im from Germany 🇩🇪 love stats, data and im currently learning Python and R. </p>
 ###
-
 <h2 data-importer="text" align="left">About me</h2>
-
 ###
-
 <p data-importer="text" align="left">📚 Data Science and AI </p>
-
 ###
-
 <h2 data-importer="text" align="left">I code with</h2>
-
 ###
-
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -34,5 +24,4 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="40" alt="firefox logo"  />
 </div>
-
 ###
