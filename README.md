@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">Im from Germany 🇩🇪 love stats, data and im learning Python</p>
+<p data-importer="text" align="left">Im from Germany 🇩🇪 love stats, data and im learning Python. </p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">📚 I'm currently learning new things</p>
+<p data-importer="text" align="left">📚 Data Science and AI </p>
 
 ###
 
