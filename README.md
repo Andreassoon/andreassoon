@@ -2,7 +2,7 @@
 
 <p data-importer="text" align="left">Im from Germany 🇩🇪 love football, stats, data and im currently learning Python. </p>
 
-<h2 data-importer="text" align="left">About me</h2>
+<h2 data-importer="text" align="left">About me and what i focus on</h2>
 
 <p data-importer="text" align="left">📚 Data Science and AI </p>
 
