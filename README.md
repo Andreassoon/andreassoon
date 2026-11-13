@@ -1,6 +1,6 @@
 <h1 data-importer="text" align="left">Hey 👋 What's up?</h1>
 
-<p data-importer="text" align="left">Im from Germany 🇩🇪 love stats, data and im currently learning Python and R. </p>
+<p data-importer="text" align="left">Im from Germany 🇩🇪 love football, stats, data and im currently learning Python. </p>
 
 <h2 data-importer="text" align="left">About me</h2>
 
